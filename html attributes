@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<h2>The href Attribute</h2>
+<a href="#">Forgot password ?</a>
+
+<h2>The src Attribute</h2>
+<img src="img.avatar" width="40%" height="50%">
+
+<h2>The style Attribute</h2>
+<p style="color:purple;">Login form</p>
+
+<h2 title="I'm a header">The title Attribute</h2>
+
+
+</body>
+</html>
